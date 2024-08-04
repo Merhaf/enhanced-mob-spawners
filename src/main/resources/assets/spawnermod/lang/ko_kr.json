@@ -1,5 +1,5 @@
 {
-	"item.spawnermod.spawner_key": "스포너 키",
+	"item.spawnermod.spawner_key": "생성기 키",
 	"item.spawnermod.iron_golem_spawn_egg": "철 골렘 스폰 알",
 	
 	"button.count.default": "수량: 기본",
@@ -27,7 +27,7 @@
 	"button.save": "저장",
 	"button.cancel": "취소",
 	
-	"tooltip.spawnermod.spawner_key_disabled": "스포너 키가 비활성화되었습니다",
+	"tooltip.spawnermod.spawner_key_disabled": "생성기 키가 비활성화되었습니다",
 	
-	"gui.spawnermod.spawner_config_screen_title": "스포너 설정"
+	"gui.spawnermod.spawner_config_screen_title": "생성기 설정"
 }
